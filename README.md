@@ -65,9 +65,7 @@ It's designed to help them **study smarter, with less uncertainty.**
 
 # 🌐 Live Demo
 
-### [🎯 Launch FOCUS](your-vercel-link.vercel.app)
-
-Replace the link above with your actual deployment URL.
+### [🎯 Launch FOCUS]([your-vercel-link.vercel.app](https://focus-lac.vercel.app/))
 
 ---
 
