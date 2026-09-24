@@ -1,0 +1,6 @@
+{
+  "name": "FOCUS",
+  "description": "Smart student support and study-planning platform with FOCUS AI study copilot and Snap & Solve multimodal problem solver.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
